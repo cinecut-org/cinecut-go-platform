@@ -1,6 +1,6 @@
 module github.com/cinecut-org/cinecut-go-platform
 
-go 1.24
+go 1.27.2
 
 require (
 	github.com/google/uuid v1.6.0
